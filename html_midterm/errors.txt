@@ -1,0 +1,34 @@
+Group members: Rachel Diamond and Sophia Crawshaw
+
+Errors on "Find_errors.html"
+
+Error 1 - Line 9 is missing a closing tag "</h1>"
+
+Error 2 - Line 11 is missing an open tag "<p>"
+
+Error 3 - Line 19 uses a closing tag instead of an opening tag. It should be <li> instead
+
+Error 4 - Line 24 has a ordered list tag but the closing tag is an unordered list. It should be "</ol>"
+
+Error 5 - Line 36 is missing a closing paragraph tag "</p>"
+
+Error 6 - Line 28 uses the wrong path. It should be "/html_midterm\image.jpg"
+
+Error 7 - Line 30 uses a closing img tag but it is supposed to be </a>
+
+Error 8 - Line 45 is missing a closing tag "</table>"
+
+Error 9 - Line 47 uses source instead of "src" and tag should be "/html_midterm\error.jpg"
+
+Error 10 - Line 49 is missing both a opening and closing paragraph tag "<p>" and "</p>" as well as the strike out tag "<s>" and "</s>"
+
+Error 11 - Line 51 is using the wrong attribute. It should be "style="color:lightgray;" instead
+
+Error 12 - Line 53
+
+Error 13 - Line 55 is missing the closing part of the comment. It needs " -->"
+
+Error 14 - LIne 57
+
+Error 15 - The emphasis attribute should be inside the paragraph closing tag.
+
