@@ -19,37 +19,37 @@ Error 7 - Line 24 has a ordered list tag but the closing tag is an unordered lis
 
 Error 8 - Line 26 is missing a closing paragraph tag "</p>"
 
-Error 9 - Line 28 uses the wrong path. It should be "/html_midterm\image.jpg"
+Error 9 - Line 28 uses the wrong path. It should be "/html_midterm/image.jpg"
 
 Error 10 - Line 30 uses a closing img tag but it is supposed to be </a>
 
 Error 11 - Line 45 is missing a closing tag "</table>"
 
-Error 12 - Line 47 uses source instead of "src" and tag should be "/html_midterm\error.jpg"
+Error 12 - Line 47 uses source instead of "src" and tag should be "/html_midterm/error.jpg"
 
 Error 13 - Line 49 is missing both a opening and closing paragraph tag "<p>" and "</p>" as well as the strike out tag "<s>" and "</s>"
 
 Error 14 - Line 51 is using the wrong attribute. It should be "style="color:lightgray;" instead
 
-Error 15 - Line 53 
+Error 15 - Line 53 missing action for button, should be onclick="alert('Button clicked!')"
 
 Error 16 - Line 55 is missing the closing part of the comment. It needs " -->"
 
-Error 17 - Line 57 
+Error 17 - Line 57 there is no closing tag </a>
 
-Error 18 - Line 59 The emphasis attribute should be inside the paragraph closing tag.
+Error 18 - Line 59 The wrong attribute tag was used, it should be 
 
 Error 19 - Line 62 <li> and </li> tag should be <dt> and </dt> 
 
-Error 20 - Line 63 <li> and </li> tag should be <dt> and </dt> 
+Error 20 - Line 63 <li> and </li> tag should be <dd> and </dd> 
 
 Error 21 - Line 65 closing header tag should be </h2> instead of <h3>
 
-Error 22 - 
+Error 22 - Line 39 uses a opening table data tag instead of a closing tag </td>
 
-Error 23 - 
+Error 23 - Line 3 uses wrong notation, should be lang not language
 
-Error 24 - 
+Error 24 - Line 28 img is missing <alt> tag
 
 Error 25 - 
 
@@ -73,7 +73,7 @@ Error 7 - Line 8 is missing a closing paragraph tag </p>
 
 Error 8 - Line 10 image tags use src instead of href 
 
-Error 9 - Line 10 uses the wrong relative path it should be "/html_midterm\image_2.jpg"
+Error 9 - Line 10 doesnt have an alt tag
 
 Error 10 - Line 12 is missing opening <h2> tag
 
