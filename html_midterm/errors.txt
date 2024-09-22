@@ -2,33 +2,90 @@ Group members: Rachel Diamond and Sophia Crawshaw
 
 Errors on "Find_errors.html"
 
-Error 1 - Line 9 is missing a closing tag "</h1>"
 
-Error 2 - Line 11 is missing an open tag "<p>"
+Error 1 - Line 1 instead of <html> should be <!DOCTYPE html>
 
-Error 3 - Line 19 uses a closing tag instead of an opening tag. It should be <li> instead
+Error 2 - Line 4 <html language="en"> should be outside of <head> tag
 
-Error 4 - Line 24 has a ordered list tag but the closing tag is an unordered list. It should be "</ol>"
+Error 3 - Line 5 The closing header is missing
 
-Error 5 - Line 36 is missing a closing paragraph tag "</p>"
+Error 4 - Line 9 is missing a closing tag "</h1>"
 
-Error 6 - Line 28 uses the wrong path. It should be "/html_midterm\image.jpg"
+Error 5 - Line 11 is missing an open tag "<p>"
 
-Error 7 - Line 30 uses a closing img tag but it is supposed to be </a>
+Error 6 - Line 19 uses a closing tag instead of an opening tag. It should be <li> instead
 
-Error 8 - Line 45 is missing a closing tag "</table>"
+Error 7 - Line 24 has a ordered list tag but the closing tag is an unordered list. It should be "</ol>"
 
-Error 9 - Line 47 uses source instead of "src" and tag should be "/html_midterm\error.jpg"
+Error 8 - Line 26 is missing a closing paragraph tag "</p>"
 
-Error 10 - Line 49 is missing both a opening and closing paragraph tag "<p>" and "</p>" as well as the strike out tag "<s>" and "</s>"
+Error 9 - Line 28 uses the wrong path. It should be "/html_midterm\image.jpg"
 
-Error 11 - Line 51 is using the wrong attribute. It should be "style="color:lightgray;" instead
+Error 10 - Line 30 uses a closing img tag but it is supposed to be </a>
 
-Error 12 - Line 53
+Error 11 - Line 45 is missing a closing tag "</table>"
 
-Error 13 - Line 55 is missing the closing part of the comment. It needs " -->"
+Error 12 - Line 47 uses source instead of "src" and tag should be "/html_midterm\error.jpg"
 
-Error 14 - LIne 57
+Error 13 - Line 49 is missing both a opening and closing paragraph tag "<p>" and "</p>" as well as the strike out tag "<s>" and "</s>"
 
-Error 15 - The emphasis attribute should be inside the paragraph closing tag.
+Error 14 - Line 51 is using the wrong attribute. It should be "style="color:lightgray;" instead
+
+Error 15 - Line 53 
+
+Error 16 - Line 55 is missing the closing part of the comment. It needs " -->"
+
+Error 17 - Line 57 
+
+Error 18 - Line 59 The emphasis attribute should be inside the paragraph closing tag.
+
+Error 19 - Line 62 <li> and </li> tag should be <dt> and </dt> 
+
+Error 20 - Line 63 <li> and </li> tag should be <dt> and </dt> 
+
+Error 21 - Line 65 closing header tag should be </h2> instead of <h3>
+
+Error 22 - 
+
+Error 23 - 
+
+Error 24 - 
+
+Error 25 - 
+
+
+Errors on "find_errors_2.html"
+
+
+Error 1 - Line 2 there is no closing tag to <head>
+
+Error 2 - Line 2 doesn't specify a language, should be <html lang="en">
+
+Error 3 - Line 4 <h1> should be inside body
+
+Error 4 - Line 5 <body> tag is missing >
+
+Error 5 - Line 8 <html> should be above head tag
+
+Error 6 - Line 8 is missing closing strong tag </strong> 
+
+Error 7 - Line 8 is missing a closing paragraph tag </p>
+
+Error 8 - Line 10 image tags use src instead of href 
+
+Error 9 - Line 10 uses the wrong relative path it should be "/html_midterm\image_2.jpg"
+
+Error 10 - Line 12 is missing opening <h2> tag
+
+Error 11 - Line 14 is missing opening paragraph tag <p>
+
+Error 12 - Line 15 uses the wrong notation for a comment, should be <!-- -->
+
+Error 13 - Line 16 is missing a closing </div> tag
+
+Error 14 - Line 17 is missing a closing </body> tag
+
+Error 15 - Line 18 html is spelled wrong
+
+ 
 
