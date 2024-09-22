@@ -19,7 +19,7 @@ Error 7 - Line 24 has a ordered list tag but the closing tag is an unordered lis
 
 Error 8 - Line 26 is missing a closing paragraph tag "</p>"
 
-Error 9 - Line 28 uses the wrong path. It should be "/html_midterm/image.jpg"
+Error 9 - Line 28  has no <alt> and uses the wrong path. It should be "/html_midterm/image.jpg"
 
 Error 10 - Line 30 uses a closing img tag but it is supposed to be </a>
 
@@ -37,7 +37,7 @@ Error 16 - Line 55 is missing the closing part of the comment. It needs " -->"
 
 Error 17 - Line 57 there is no closing tag </a>
 
-Error 18 - Line 59 The wrong attribute tag was used, it should be 
+Error 18 - Line 59 The wrong attribute tag was used, it should be <u>
 
 Error 19 - Line 62 <li> and </li> tag should be <dt> and </dt> 
 
@@ -51,7 +51,7 @@ Error 23 - Line 3 uses wrong notation, should be lang not language
 
 Error 24 - Line 28 img is missing <alt> tag
 
-Error 25 - 
+Error 25 - Line 57 the href is attribute was not set 
 
 
 Errors on "find_errors_2.html"
