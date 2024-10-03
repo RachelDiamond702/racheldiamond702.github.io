@@ -1,0 +1,26 @@
+
+/* Background image */
+
+body {
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Helvetica neue', Arial, 'sans serif';
+    font-size: 10px;
+    }
+
+
+.background-image{
+    background-image: url("img\football.jpg");
+}
+
+/* Overlay 1 */
+
+.team-1{
+    
+}
+
+/* Overlay 2 */
+
+
