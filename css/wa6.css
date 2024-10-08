@@ -3,24 +3,70 @@
 
 body {
     margin: 0;
+    background-image: url("../img/football.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   
   html {
     font-family: 'Helvetica neue', Arial, 'sans serif';
     font-size: 10px;
+    height: 100%;
     }
 
 
-.background-image{
-    background-image: url("img\football.jpg");
-}
-
 /* Overlay 1 */
 
+.overlay-1{
+  position: absolute;
+  bottom: 0;
+  background-color: white;
+  padding:20px;
+  display: flex;
+}
+
 .team-1{
-    
+  position: relative;
+  padding-right: 25px;
+}
+
+.team-2{
+  position: relative;
+  padding-left: 55px;
+  padding-right: 10px;
+}
+
+.score-1{
+position: relative;
+padding-left: 20px;
+right: 35%;
+}
+
+.score-2{
+  position: relative;
+  padding-right: 20px;
+}
+
+.quarter{
+  padding-left: 20px;
+}
+
+.time{
+  padding-left: 35px;
+}
+
+.down{
+  padding-left: 35px;
 }
 
 /* Overlay 2 */
 
-
+.overlay-2{
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: white;
+  padding: 5px;
+  border: 3px solid darkred;
+}
