@@ -22,7 +22,10 @@ body {
   position: absolute;
   bottom: 0;
   background-color: white;
+<<<<<<< HEAD
   border: solid black 3px;
+=======
+>>>>>>> d0963f622022ced021f3ee9c26d2ca9910de2f71
   padding:20px;
   display: flex;
 }
