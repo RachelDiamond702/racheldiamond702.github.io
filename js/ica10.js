@@ -1,3 +1,23 @@
+// Click to change the image
 
-console.log(document.getElementById("intro_text"));
-document.getElementById("intro_text").addEventListener("click", function(e), alert("clicked the text"));
+var image = document.getElementById('Image');
+
+image.addEventListener('click', function(){
+        changeImage();
+    });
+
+function changeImage(){
+        image.src = '/img/ollie_1.JPG';
+    }
+
+//change text color onclick
+
+var textElement = document.getElementById('intro_text');
+
+textElement.addEventListener('click', function() {
+    changeTextColor();
+});
+
+function changeTextColor() {
+    textElement.style.color = 'red';
+}
