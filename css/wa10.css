@@ -1,6 +1,7 @@
 body {
-  font-family: helvetica, sans-serif;
+  font-family: 'Georgia', sans-serif;
   width: 350px;
+  background: #ac7ddd
 }
 
 label {
@@ -17,8 +18,8 @@ input[type="text"] {
 }
 
 p {
-  background: #ffc125;
-  color: #5e2612;
-  padding: 10px;
+  background: #249af4;
+  color: #000000;
+  padding: 25px;
   visibility: hidden;
 }
