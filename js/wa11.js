@@ -11,11 +11,11 @@ const images = [`/img/wa11-images/pic1.jpg`, `/img/wa11-images/pic2.jpg`, `/img/
 /* Declaring the alternative text for each image file */
 
 const alts = {
-  'img/wa11-images/pic1.jpg' : 'Closeup of a human eye',
-  'img/wa11-images/pic2.jpg' : 'Rock that looks like a wave',
-  'img/wa11-images/pic3.jpg' : 'Purple and white pansies',
-  'img/wa11-images/pic4.jpg' : 'Section of wall from a pharoah\'s tomb',
-  'img/wa11-images/pic5.jpg' : 'Large moth on a leaf'
+  'img/wa11-images/pic1.jpg' : 'A cat sitting on a stool',
+  'img/wa11-images/pic2.jpg' : 'A black cat laying in loaf form',
+  'img/wa11-images/pic3.jpg' : 'A cat laying under a table on a blanket',
+  'img/wa11-images/pic4.jpg' : 'A white cat sitting in a picnic basket',
+  'img/wa11-images/pic5.jpg' : 'A white cat sitting ontop of ar arch'
 }
 
 /* Looping through images */
