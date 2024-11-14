@@ -23,10 +23,8 @@ function getJoke(){
     .then(data => {
 
         if (data.type === 'single') {
-            console.log("Random Joke (as quote): " + data.joke);
+            console.log("Random Joke: " + data.joke);
             displayRes(data.joke);
-        } else {
-            console.log("Unexpected joke type received.");
         }
     })
     .catch(error => {
